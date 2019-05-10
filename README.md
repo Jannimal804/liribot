@@ -6,4 +6,3 @@ Watch a video demo here: https://drive.google.com/file/d/1AseW2zJRzqXUjl7y443ftp
 
 Demo of concert-this working: https://drive.google.com/file/d/19IKcKV_fJKpe1XdNigPMsyOo0yESWmwx/view
 
-Hey TA's -- Sorry these screen recordings are so painfullly boring. I will re-shoot them another time! 
